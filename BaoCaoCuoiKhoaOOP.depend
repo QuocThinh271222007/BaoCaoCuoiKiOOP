@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1776346190 source:c:\users\thinh\documents\code\oop\baocaocuoikhoaoop\main.cpp
-	<iostream>
-	<string>
-	<vector>
-	<iomanip>
-	<limits>
-
